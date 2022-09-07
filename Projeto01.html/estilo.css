@@ -1,0 +1,164 @@
+body{
+
+    font-family: cursive;
+    font-size: 16px;
+    margin: 0;
+    background-color: #ccc;
+
+}
+.navegacao{
+
+    background-image:url(imagens//bg-3.jpg);
+    height: 500px;
+    background-position: right center;
+    background-size: cover;
+    border-top: 1px solid transparent;
+}
+nav ul{
+
+    text-align: right;
+    margin: 50px 50px;
+}
+nav li{
+
+    list-style: none;
+    display: inline-block;
+    background-color: rgba(71, 71, 71, 0.377);
+    border: 1px solid white;
+    margin: 5px;
+    border-radius: 60px solid;
+
+
+}
+nav a{
+
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: white;
+    display: block;
+    padding: 5px;
+    letter-spacing: 1.5px;
+
+
+}
+nav a:hover{
+
+    background-color: rgba(51, 51, 51, 0.342);
+
+}
+.content{
+
+    text-align: center;
+    color: white;
+    margin-top: 130px;
+}
+.content h1{
+
+    text-transform: uppercase;
+    font-size: 40px;
+    text-shadow: 3px 3px 2px #333;
+
+}
+.content p{
+
+    background-color: rgba(51, 51, 51, 0.527);
+    border-bottom: 1px solid white;
+    text-shadow: 2px 2px 1px #333;
+    width: 30%;
+    padding: 10px;
+    margin: auto;
+    display: block;
+
+
+}
+
+main{
+
+
+    width: 80%;
+    margin: auto;
+ 
+
+}
+.hero-content{
+
+    background-color: white;
+    margin-top: 20px;
+    overflow: auto;
+    padding: 10px;
+
+
+}
+
+.card-01,.card-02,.card-03{
+
+    float: left;
+    width: 32%;
+
+
+
+}
+.card-01,.card-02{
+
+    margin-right: 2%;
+
+}
+
+.cards img{
+
+    width: 100%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+
+    display: block;
+
+}
+.cards p{
+
+    display: block;
+    background-color: rgba(31, 30, 30, 0.712);
+    color: blanchedalmond;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 20px;
+    font-size: 13px;
+    letter-spacing: 2px;
+
+}
+
+
+
+.hero-content2{
+    
+    background-color: white;
+
+
+ 
+}
+.hero-content2 h2{
+
+    background-color: rgb(104, 103, 103);
+    padding: 20px;
+
+}
+.hero-content2 p{
+
+    padding: 10px;
+
+}
+footer{
+
+    height: 80px;
+    color: white;
+    font-size: 16px;
+    line-height: 80px;
+    text-shadow: 3px 3px 2px #333;
+    background-color: #333;
+    text-align: center;
+
+}
+
+
+
+
